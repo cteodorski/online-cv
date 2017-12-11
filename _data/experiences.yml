@@ -40,10 +40,16 @@ Information Security; Penetration Testing; Malware Analysis; Network Security; I
   company: Robert Morris University
   details: "Developed and teach Network Forensics and Intrusion Detection and Response (INFS4180), a course required for the Bachelor of Science in Cyber Forensics and Information Security degree. Redesigned in person course to be an online course making it accessible to more students. The course has a heavy concentration in online lab work and teached both offensive and defensive security, including basic web application security, incident response, and vulnerability management."
 - experience:
-  role: UI Developer
+  role: Security Analyst III
   time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  company: Lowe's Home Improvement
+  details: "Led all incident response activities and SIEM management, with a focus on leading support and configuration of the RSA enVision SIEM. Conducted security assessment of international locations and assisted local support teams in resolving security issues. Mentored junior members of the team in assessing threats and identifying malicious activity on the network. Advised on development of information security policy documents.
+<p>
+Key Achievements:
+<ul>
+<li>Provided technical expertise to the junior penetration testing team and assisted with custom Python scripts to automate time-consuming and repetitive tasks.</li>
+
+<li>Enhanced understanding of basic information security best practices among non-technical staff by developing and facilitating “lunch and learn” courses coveringinformation security for both the workplace and the home / mobile computingenvironment.</li>
+
+<li>Proposed, designed, and deployed a custom honeypot management system utilizing easy-to- support open source tools to provide additional threat landscape information to the security operations team.</li>
+</ul>"

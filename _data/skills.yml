@@ -2,17 +2,17 @@
   name:  SIEM (Security Information and Event Management)
   level: 98%
 - skill:
-  name: Javascript & jQuery
+  name: Intrusion Detection
   level: 98%
 - skill:
-  name: Angular
-  level: 98%
+  name: Elasticsearch, Logstash, Kibana
+  level: 50%
 - skill:
-  name: HTML5 & CSS
-  level: 95%
+  name: Python
+  level: 50%
 - skill:
-  name: Ruby on Rails
+  name: Splunk
   level: 85%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Incident Response
+  level: 98%

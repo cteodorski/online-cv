@@ -1,6 +1,5 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description:
 
 - project:
   title: BsidesPittsburgh, BsidesCharlotte, BsidesTampa
@@ -11,14 +10,7 @@
   link: "https://www.youtube.com/watch?v=oWXZX3izR44"
   tagline: "Invited speaker to several Information Security conferences to present research done with honeypots and interaction with threat actors"
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-- project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Raising Awareness: An Examination of Embedded GPS Data in Images Posted to the Social Networking Site Twitter
+  link: "http://iacis.org/iis/2010/432-438_LV2010_1370.pdf"
+  tagline: "Paper published in Issues in Information Systems, Vol. XI, No.1. pp. 432-438, 2010. "
+

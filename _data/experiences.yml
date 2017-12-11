@@ -53,3 +53,21 @@ Key Achievements:
 
 <li>Proposed, designed, and deployed a custom honeypot management system utilizing easy-to- support open source tools to provide additional threat landscape information to the security operations team.</li>
 </ul>"
+- experience:
+  role: Senior Security Analyst
+  time: 2008 - 2012
+  company: PPG Industries
+  details: "Provided end-to- end security management and oversight of a global computing environment – 40K+ users, 1500+ Windows servers, and 100+ HP-UX and Red Hat Linux servers – for the Fortune 500 company with operations in 70 countries.
+
+Served as a technical resource for all incident response activities, Supported PCI, SOX, and HIPAA compliance. Managed business continuity and disaster recovery plans and testing. Served as Disaster Recovery Event Manager for all testing.
+<p>
+Key Achievements:
+<ul>
+<li>Partnered in achieving PCI compliance by managing deployment of an application whitelisting technology to protect POS systems across 200+ stores.</li>
+
+<li>Developed process to automate discovery of rogue access points across geographically disparate locations where ‘war-driving’ was not practical, which saved a significant amount of expense and man hours.</li>
+
+<li>Wrote Perl and Python scripts to improve and automate resource intensive compliance and security tasks.</li>
+
+<li>Collaborated with development staff to drive adoption of secure coding methodologies and build security into the SDLC.</li>
+</ul>"

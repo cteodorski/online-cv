@@ -29,7 +29,7 @@ Key Achievements:
 <li>Overcame the challenge of storing massive amounts of log data without driving up costs by leveraging a low cost object store and a new methodology that enabled immediate retrieval of data.</li>
 <li>Designed and implemented an open source SIEM and deployed the system on virtualized hardware, which provided enterprise-level security at extremely low costs.</li>
 <li>Replaced aging proprietary IDS sensors with Open Source technology, which significantly reduced costs while improving intrusion detection capabilities.</li>
-<p>
+</ul>
 Specialties:
 <p>
 Information Security; Penetration Testing; Malware Analysis; Network Security; Incident Response; Intrusion Detection"

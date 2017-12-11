@@ -18,16 +18,16 @@ summary: 'Cybersecurity/Information security professional and CISSP with extensi
 and proactive protection of Fortune 100 and government cloud-based and physical infrastructures'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
+email: chris.teodorski@gmail.com
+phone: (575) 208-4847
 website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+linkedin: www.linkedin.com/in/christeodorski
+github: cteodorski
+twitter: '@can0beans'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-111016934-1
 
 # Build settings
 encoding: "utf-8"

@@ -23,19 +23,16 @@ assets.</li>
 </ul>
 <p>
 Key Achievements:
-
-+ Worked with various system administration teams to improve security posture and meet various compliance requirements, including PCI, HIPAA, and SOC 1/2.
-+ Consulted on multiple projects to drive adherence to security best practices when deploying cutting edge cloud services, balancing the go­to­market needs of the business with industry best practices and sound information security practices.
-+ Overcame the challenge of storing massive amounts of log data without driving up costs by leveraging a low cost object store and a new methodology that enabled immediate retrieval of data.
-+ Designed and implemented an open source SIEM and deployed the system on
-virtualized hardware, which provided enterprise-level security at extremely low costs.
-+ Replaced aging Cisco IDS sensors with Open Source technology, which significantly
-reduced costs while improving intrusion detection capabilities.
+<ul>
+<li>Worked with various system administration teams to improve security posture and meet various compliance requirements, including PCI, HIPAA, and SOC 1/2.</1i>
+<li>Consulted on multiple projects to drive adherence to security best practices when deploying cutting edge cloud services, balancing the go­to­market needs of the business with industry best practices and sound information security practices.</li>
+<li>Overcame the challenge of storing massive amounts of log data without driving up costs by leveraging a low cost object store and a new methodology that enabled immediate retrieval of data.</li>
+<li>Designed and implemented an open source SIEM and deployed the system on virtualized hardware, which provided enterprise-level security at extremely low costs.</li>
+<li>Replaced aging proprietary IDS sensors with Open Source technology, which significantly reduced costs while improving intrusion detection capabilities.</li>
 <br>
 Specialties:
-
-Information Security; Penetration Testing; Malware Analysis; Network Security; Incident
-Response; Intrusion Detection"
+<p>
+Information Security; Penetration Testing; Malware Analysis; Network Security; Incident Response; Intrusion Detection"
 - experience:
   role: Senior Software Engineer
   time: 2014 - 2015

@@ -1,15 +1,46 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Maanger, Information Security Engineering
+  time: 2014 - Present
+  company: Virtustream DELL/EMC
+  details: "Lead a team of 5 analysts responsible for architecting, deploying, and
+supporting a portfolio of security tools (e.g. vulnerability management and assessment
+platform, SIEM tools, intrusion detection platforms, etc.) and provide incident response
+for 5 cloud service lines. Earned a promotion from Information Security Engineer in
+2015.
+
+Professional Timeline:
+
+Manager, Information Security Engineer (2015 – Present)
+Information Security Engineer (2014 – 2015)
+
+Professional Mission:
++ Translate business objectives into transformative information security programs and initiatives.
+
++ Build empowered teams that consistently over-achieve even the most aggressive deliverables.
+
++ Forge a shared understanding of security concerns and present actionable remediation plans.
+
++ Vigorously defend organizations against attacks and ensure the security of valuable
+assets.
+
+Key Achievements:
+
++ Worked with various system administration teams to improve security posture and meet various compliance requirements, including PCI, HIPAA, and SOC 1/2.
+
++ Consulted on multiple projects to drive adherence to security best practices when deploying cutting edge cloud services, balancing the go­to­market needs of the business with industry best practices and sound information security practices.
+
++ Overcame the challenge of storing massive amounts of log data without driving up costs by leveraging a low cost object store and a new methodology that enabled immediate retrieval of data.
+
++ Designed and implemented an open source SIEM and deployed the system on
+virtualized hardware, which provided enterprise-level security at extremely low costs.
+
++ Replaced aging Cisco IDS sensors with Open Source technology, which significantly
+reduced costs while improving intrusion detection capabilities.
+
+Specialties:
+
+Information Security; Penetration Testing; Malware Analysis; Network Security; Incident
+Response; Intrusion Detection"
 - experience:
   role: Senior Software Engineer
   time: 2014 - 2015

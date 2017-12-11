@@ -3,13 +3,13 @@
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
+  title: BsidesPittsburgh, BsidesCharlotte, BsidesTampa
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  tagline: "Founding member of both BsidesPittsburgh and BsidesCharlotte.  Core organizer for BSidesTampa2017"
+- project:
+  title: Kibble and Bits and Bits and Bits
+  link: "#"
+  tagline: "Invited speaker to several Information Security conferences to present research done with honeypots and interaction with threat actors"
 - project:
   title: Tempo
   link: "#"
